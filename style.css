@@ -1,0 +1,81 @@
+body{
+    background-color:black;
+}
+
+#headst{
+    border:4px solid blue;
+    
+    
+}
+
+nav a {
+    text-decoration: none;
+    
+}
+
+nav ul {
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    list-style-position: inside;
+    font: 14px 'Oswald', sans-serif;
+    padding: 10px;
+   
+}
+
+.top-menu li {
+    display: inline-block;
+    padding: 10px 30px;
+    margin: 0;
+    
+}
+
+.top-menu li.active {
+    background: purple;
+    color: #fff;
+}
+
+.top-menu a {
+    color: orange;
+}
+
+.h1st{
+    padding:0;
+    color:purple;
+    margin-left:2%;
+    margin-top:0;
+    margin-bottom:20px;
+    
+
+}
+#h1s{
+    color:orange;
+}
+
+h3{
+    color:green;
+}
+h4{
+    color:blue;
+}
+
+a{
+    color:blue;
+    text-decoration:none;
+}
+
+.articlest{
+    color:green;
+    
+    margin-right:30%;
+    padding:0;
+    float:right;
+    
+}
+
+.asidest{
+    padding:0;
+    position:absolute;
+}
